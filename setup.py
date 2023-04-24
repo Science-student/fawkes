@@ -69,7 +69,7 @@ setup_requires = []
 
 install_requires = [
     'numpy>=1.19.5',
-    'tensorflow==2.6.3',
+    'tensorflow==2.11.1',
     'keras',
     'mtcnn',
     'pillow>=7.0.0',
